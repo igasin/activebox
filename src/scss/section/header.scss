@@ -195,7 +195,8 @@
     }
   
     .popup .navigation-list > li > a:hover {
-      background-color: $navigation_hover;
+      // background-color: $navigation_hover;
+      // border-radius: 10px;
     }
   
     .hamb__field.active .bar:nth-child(2) {
