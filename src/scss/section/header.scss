@@ -11,6 +11,7 @@
   max-width: 1170px;
   border-bottom: 1px solid #BABBC5;
   @media (max-width: 765px) {
+    height: 56px;
     border-bottom: none;
     // padding: 0 20px 0 0;
   }
@@ -41,17 +42,17 @@
     display: flex;
     justify-content: space-between;
     // border-bottom: 1px solid #BABBC5;
-    @media (max-width: 765px) {
-      border-bottom: none;
-      // padding: 0 5px;
-    }
-    @media (max-width: 430px) {
-        border-bottom: none;
-        // padding: 0 5px;
-    }
-    @media (max-width: 765px) {
-        height: 56px;
-    }
+    // @media (max-width: 765px) {
+    //   border-bottom: none;
+    //   // padding: 0 5px;
+    // }
+    // @media (max-width: 430px) {
+    //     border-bottom: none;
+    //     // padding: 0 5px;
+    // }
+    // @media (max-width: 765px) {
+    //     height: 56px;
+    // }
    }
 
 .navigation-list {
